@@ -1,0 +1,1 @@
+Some small projects that I wrote in assembly using both AT&T and Intel syntax.
